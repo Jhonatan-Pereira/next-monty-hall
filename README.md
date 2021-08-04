@@ -32,3 +32,17 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+<p align="center">
+  <h1 align="center">Monty Hall</h1>
+</p>
+
+![Viewport do Projeto][viewport1]
+![Viewport do Projeto][viewport2]
+
+## About
+Este projeto foi desenvolvido através do curso [Next.js & React - Curso Completo - Totalmente Baseado em Projetos](https://www.cod3r.com.br/courses/nextjs) instruido por [Leonardo Leitão](https://www.linkedin.com/in/leonardo-leit%C3%A3o-8a5813186).
+
+[viewport1]: https://raw.githubusercontent.com/Jhonatan-Pereira/next-monty-hall/master/src/assets/viewport1.png "Viewport 1"
+[viewport2]: https://raw.githubusercontent.com/Jhonatan-Pereira/next-monty-hall/master/src/assets/viewport2.png "Viewport 2"
