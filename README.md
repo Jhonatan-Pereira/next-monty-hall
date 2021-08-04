@@ -44,5 +44,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## About
 Este projeto foi desenvolvido através do curso [Next.js & React - Curso Completo - Totalmente Baseado em Projetos](https://www.cod3r.com.br/courses/nextjs) instruido por [Leonardo Leitão](https://www.linkedin.com/in/leonardo-leit%C3%A3o-8a5813186).
 
-[viewport1]: https://raw.githubusercontent.com/Jhonatan-Pereira/next-monty-hall/master/src/assets/viewport1.png "Viewport 1"
-[viewport2]: https://raw.githubusercontent.com/Jhonatan-Pereira/next-monty-hall/master/src/assets/viewport2.png "Viewport 2"
+[viewport1]: https://github.com/Jhonatan-Pereira/next-monty-hall/blob/main/images/viewport1.png "Viewport 1"
+[viewport2]: https://github.com/Jhonatan-Pereira/next-monty-hall/blob/main/images/viewport2.png "Viewport 2"
